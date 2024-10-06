@@ -17,5 +17,3 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/beatriz-friso-3625a7234/)](https://www.linkedin.com/in/luan-victor-b84248221/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-c039a6?style=flat-square&labelColor=c039a6&logo=instagram&logoColor=white&link=https://instagram.com/beatrizfriso)]()
 
-## My activity:
-![contrib graph](./profile-3d-contrib/profile-gitblock.svg)
